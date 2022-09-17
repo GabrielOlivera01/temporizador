@@ -1,0 +1,15 @@
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.csproj.AssemblyReference.cache
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.AssemblyInfoInputs.cache
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.AssemblyInfo.cs
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.csproj.CoreCompileInputs.cache
+C:\dev\Temporizador\bin\Debug\net6.0\Temporizador.exe
+C:\dev\Temporizador\bin\Debug\net6.0\Temporizador.deps.json
+C:\dev\Temporizador\bin\Debug\net6.0\Temporizador.runtimeconfig.json
+C:\dev\Temporizador\bin\Debug\net6.0\Temporizador.dll
+C:\dev\Temporizador\bin\Debug\net6.0\Temporizador.pdb
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.dll
+C:\dev\Temporizador\obj\Debug\net6.0\refint\Temporizador.dll
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.pdb
+C:\dev\Temporizador\obj\Debug\net6.0\Temporizador.genruntimeconfig.cache
+C:\dev\Temporizador\obj\Debug\net6.0\ref\Temporizador.dll
